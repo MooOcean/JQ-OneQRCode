@@ -16,7 +16,7 @@
 
 
 
-Wiki参考：https://www.jyf.me/post/Share_JQ-OneQRCode.html
+Wiki参考：https://www.jyf.me/Share_JQ-OneQRCode.html
 
 
 github项目地址：https://github.com/Ocean-Moo/JQ-OneQRCode
